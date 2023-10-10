@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.milthonttito.miscelaneos",
+            "sha256_cert_fingerprints": [
+                "0B:2A:42:59:82:38:E3:18:57:92:D8:E9:D3:AD:E4:9C:73:E6:3E:19:B5:90:92:C0:ED:1A:2C:48:C2:17:A3:ED"
+            ]
+        }
+    }
+]
